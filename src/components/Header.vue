@@ -15,6 +15,10 @@ export default {
 @use '../scss/partials/variables' as *;
 
 .header{
-  height: 30px;
+  height: 60px;
+}
+
+span{
+  font-size: 40px
 }
 </style>
